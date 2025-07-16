@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m super fresh at this but hear me out: I will make it, I will be a Data Scientist!
+
 <!--
 **ingridanace/ingridanace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
