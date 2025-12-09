@@ -2,7 +2,7 @@
 
 - 🌱 I’m super fresh at this but hear me out: I will make it, I will be a Data Scientist!
 
-### 📋 To do list (Summer):
+### 📋 To do list:
 
 - Digging through Kaggle and creating some cool dashboards using the Power BI skills I recently learned
 - Read at least one programming book that builds on my current skill set
